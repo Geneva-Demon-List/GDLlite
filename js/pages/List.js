@@ -105,7 +105,7 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. If the level is new to the list, this rule is invalidated.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
