@@ -124,6 +124,7 @@ export default {
                     </p>
                     <p>
                         All Completions here MUST be on Geometry Dash Lite, and on mobile. Using the full game or Android emulators will not be allowed on this list.
+                    </p>
                 </div>
             </div>
         </main>
