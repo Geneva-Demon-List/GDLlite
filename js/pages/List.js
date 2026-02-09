@@ -98,6 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h2>Also check out the Geneva Demonlist by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
