@@ -99,15 +99,13 @@ export default {
                         </ol>
                     </template>
                     <h2>Also check out the Geneva Demonlist by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
+                    <h2>The Challengelist can also be found by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
-                    </p>
-                    <p>
-                        Have audible click sounds throughout the video only IF it is an Hard Demon, Insane Demon, or an Extreme Demon. If the level is unrated, only if it is hard enough to at least be a Hard Demon, or if the list says so on the level page.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
@@ -124,6 +122,8 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List ( Below Top 250 ), records are no longer accepted. Sorry!
                     </p>
+                    <p>
+                        All Completions here MUST be on Geometry Dash Lite, and on mobile. Using the full game or Android emulators will not be allowed on this list.
                 </div>
             </div>
         </main>
