@@ -105,16 +105,13 @@ export default {
                         Submission MUST be done by somebody who lives within Geneva, Ohio.
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps). 
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. If the level is new to the list, this rule is invalidated.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also show the player hit the endwall, and show the endscreen, or the completion will be invalidated. 
                     </p>
                     <p>
                         Do not use secret routes or bug routes
