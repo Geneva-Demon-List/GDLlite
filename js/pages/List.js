@@ -105,7 +105,7 @@ export default {
                         Submission MUST be done by somebody who lives within Geneva, Ohio.
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps). 
+                        Achieved the record without using hacks (however, FPS bypass is allowed). 
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. If the level is new to the list, this rule is invalidated.
