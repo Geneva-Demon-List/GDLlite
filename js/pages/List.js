@@ -99,7 +99,7 @@ export default {
                         </ol>
                     </template>
                     <h2>Also check out the Geneva Demonlist by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
-                    <h2>The Challengelist can also be found by <a href="https://genevadl.pages.dev">CLICKING HERE</a>!</h2>
+                    <h2>The Challengelist can also be found by <a href="https://gdlchallenge.pages.dev">CLICKING HERE</a>!</h2>
                     <h3>Submission Requirements</h3>
                     <p>
                         Submission MUST be done by somebody who lives within Geneva, Ohio.
